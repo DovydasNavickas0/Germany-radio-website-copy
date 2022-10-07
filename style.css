@@ -1,0 +1,374 @@
+*{
+    margin: 3px;
+    display: border-box;    
+}
+
+body{
+    background-color: rgb(87, 87, 87);
+
+}
+.box-ception{
+    display: flex;
+    height: 70vh;
+    align-content: center;
+    justify-content: center;
+}
+
+.box{
+    height: 100%;
+    width: 65%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: gray;
+}
+
+.container{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+.radio1{
+    height: 30%;
+    width: 10%;
+    background-color: aqua;
+}
+.radio2{
+    height: 50%;
+    width: 10%;
+    background-color: aqua;
+}
+.ad{
+    height: 80%;
+    width: 78%;
+    background-color: aqua;
+}
+.radio3{
+    height: 30%;
+    width: 10%;
+    background-color: aqua;
+}
+.radio4{
+    height: 50%;
+    width: 10%;
+    background-color: aqua;
+}
+
+.container2{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.radio5{
+    height: 95%;
+    width: 10.4%;
+    background-color: aqua;
+}
+.radio6{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio7{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio8{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio9{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio10{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio11{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio12{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio13{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+
+.container3{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+}
+.radio14{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio15{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio16{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio17{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio18{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio19{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio20{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio21{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio22{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+
+.player_box{
+    height: 78%;
+    width: 32.5%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: rgb(87, 87, 87);
+}
+h2{
+    font-size: larger;
+    text-align: center;
+}
+.player{
+    margin: 3px;
+    width: 97%;
+    height: 70%;
+    background-color: white;
+}
+
+.radio23{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio24{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio25{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio26{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio27{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio28{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio29{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio30{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio31{
+    height: 24%;
+    width: 10.46%;
+    background-color: aqua;
+}
+
+.container4{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -1%;
+}
+.radio45{
+    height: 95%;
+    width: 10.45%;
+    background-color: aqua;
+}
+.radio46{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio47{
+    height: 95%;
+    width: 10.45%;
+    background-color: aqua;
+}
+.radio48{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio49{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio50{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio51{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio52{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio53{
+    height: 95%;
+    width: 10.45%;
+    background-color: aqua;
+}
+
+.container5{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.radio32{
+    height: 95%;
+    width: 10%;
+    background-color: aqua;
+}
+.radio33{
+    height: 95%;
+    width: 13%;
+    background-color: aqua;
+}
+.ads2{
+    height: 95%;
+    width: 50%;
+    background-color: aqua;
+}
+.radio34{
+    height: 95%;
+    width: 13%;
+    background-color: aqua;
+}
+.radio35{
+    height: 95%;
+    width: 10%;
+    background-color: aqua;
+}
+
+.container6{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.radio36{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio37{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio38{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio39{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio40{
+    height: 95%;
+    width: 10.46%;
+    background-color: aqua;
+}
+.radio41{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio42{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio43{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
+.radio44{
+    height: 95%;
+    width: 10.47%;
+    background-color: aqua;
+}
